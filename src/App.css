@@ -1,0 +1,54 @@
+header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 60px;
+    margin: 30px auto 0 0;
+
+}
+
+
+header h2 {
+    font-size: 40px;
+    font-weight: bold;
+
+}
+
+
+.formulaire {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+
+label {
+    display: flex;
+    width: 298px;
+    height: 43px;
+    text-align: start;
+    align-items: end;
+    margin: 20px 0 5px 0;
+    font-size: 18px;
+
+}
+
+input {
+    height: 30px;
+    width: 298px;
+    border-radius: 5px;
+    border: 1px solid grey;
+    background-color: #FCF9F9;
+    font-size: 16px;
+    padding: 5px 5px;
+
+}
+
+.register {
+    background-color: #5C47D3;
+    height: 43px;
+    width: 300px;
+    margin-top: 40px;
+    color: white;
+    font-size: 16px;
+}
